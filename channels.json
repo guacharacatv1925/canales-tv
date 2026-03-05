@@ -8,5 +8,10 @@
     "nombre": "Canal Demo",
     "logo": "https://test-streams.mux.dev/logo.png",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "nombre": "Teleamazonas",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png",
+    "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8"
   }
 ]
