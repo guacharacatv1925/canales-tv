@@ -1,22 +1,27 @@
 [
   {
+    "nombre": "DW",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png",
+    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8"
+  },
+  {
+    "nombre": "Eventos",
+    "logo": "https://static.vecteezy.com/system/resources/previews/033/126/268/non_2x/live-icon-for-streaming-live-broadcast-blog-television-event-live-show-news-live-video-png.png",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
     "nombre": "LIGA PRO",
     "logo": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1944.png",
     "url": "https://live.eu-north-1a.cf.dmcdn.net/sec2(fyZShK7y_xsHxM2cL80aF7guXb_EFUJDyx4ybHpyuWcy-L_JZ-FkwaEzwUwNzu4_W_cP94hHuR9EKwsjMP__nLJy57GJESQNg0TEWYsQQwg7RXam3xbCvY4lRTbb1ucl)/dm/3/x7wijay/s/live-720.m3u8"
   },
   {
-    "nombre": "Canal Demo",
-    "logo": "https://test-streams.mux.dev/logo.png",
-    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    "nombre": "Tc Television",
+    "logo": "https://multimediatc.s3.amazonaws.com/web+wordpress/logos+y+demas/logotc+(1).png",
+    "url": "https://live.eu-north-1a.cf.dmcdn.net/sec2(fyZShK7y_xsHxM2cL80aF7guXb_EFUJDyx4ybHpyuWcy-L_JZ-FkwaEzwUwNzu4_W_cP94hHuR9EKwsjMP__nLJy57GJESQNg0TEWYsQQwg7RXam3xbCvY4lRTbb1ucl)/dm/3/x7wijay/s/live-720.m3u8"
   },
   {
     "nombre": "Teleamazonas",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png",
     "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8"
-  },
-   {
-    "nombre": "Tc Television",
-    "logo": "https://multimediatc.s3.amazonaws.com/web+wordpress/logos+y+demas/logotc+(1).png",
-    "url": "https://live.eu-north-1a.cf.dmcdn.net/sec2(fyZShK7y_xsHxM2cL80aF7guXb_EFUJDyx4ybHpyuWcy-L_JZ-FkwaEzwUwNzu4_W_cP94hHuR9EKwsjMP__nLJy57GJESQNg0TEWYsQQwg7RXam3xbCvY4lRTbb1ucl)/dm/3/x7wijay/s/live-720.m3u8"
-  }
+  }   
 ]
