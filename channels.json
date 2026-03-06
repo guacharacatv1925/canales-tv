@@ -1,12 +1,12 @@
 [
   {
     "nombre": "DW",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png",
+    "logo": "https://brandlogos.net/wp-content/uploads/2021/12/deutsche_welle-brandlogo.net_-512x512.png",
     "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8"
   },
   {
     "nombre": "Eventos",
-    "logo": "https://static.vecteezy.com/system/resources/previews/033/126/268/non_2x/live-icon-for-streaming-live-broadcast-blog-television-event-live-show-news-live-video-png.png",
+    "logo": "https://png.pngtree.com/png-vector/20220117/ourmid/pngtree-elegant-live-vector-icon-with-play-sign-png-image_4320713.png",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
